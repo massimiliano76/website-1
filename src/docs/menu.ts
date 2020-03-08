@@ -130,6 +130,10 @@ export const MENU: MenuEntry[] = [
                 "vue-in-gitpod"
             ),
             M(
+                "Scala",
+                "scala-in-gitpod"
+            ),
+            M(
                 "Rust",
                 "rust-in-gitpod"
             ),

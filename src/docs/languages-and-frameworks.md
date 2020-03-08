@@ -11,6 +11,7 @@ Below is a list of language and framework specific tips & tricks.
   * [Ruby](/docs/ruby-in-gitpod)
   * [PHP](/docs/php-in-gitpod)
   * [Vue.js](/docs/vue-in-gitpod)
+  * [Scala](/docs/scala-in-gitpod)
   * [Rust](/docs/rust-in-gitpod/)
   * [Julia](/docs/julia-in-gitpod/)
   * [R](/docs/r-in-gitpod/)
